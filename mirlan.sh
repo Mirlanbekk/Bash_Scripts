@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir /mnt/c/Users/pirma/OneDrive/Desktop/bash_script/Bash_Scripts/test2
+
 
 echo "What is your name?"
 
