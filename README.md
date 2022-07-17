@@ -34,9 +34,6 @@ After the permission to be executable is given, it is run in the following forma
 Use Bash To Write a Backup Script
 
 #!/bin/bash
-
-# Backing up required files
-
 echo "Creating backup directory"
 mkdir ~/backup
 echo 'Copying files'
